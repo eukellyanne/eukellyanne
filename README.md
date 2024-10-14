@@ -10,7 +10,7 @@
 
 Aqui estão algumas das linguagens e tecnologias que estou habituada a utilizar: 
 
-[![habilidades](https://skillicons.dev/icons?i=java,php,python,dbeaver,metabase,powebi,postgresql,mysql,idea,spring,html,css,)](skillicons.dev)
+[![habilidades](https://skillicons.dev/icons?i=java,php,python,mysql,idea,spring,html,css,)](skillicons.dev)
 
 ### 📫 Contato 
 
