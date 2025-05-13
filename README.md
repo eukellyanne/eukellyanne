@@ -4,7 +4,7 @@
 ### 💼 Perfil Profissional
 
 - 👩🏻‍💻 Técnica de Informática
-- 💡Analista de Dados
+- 💡Desenvolvedora de Software
 - 💻 Graduanda em Sistemas de Informação
 
 ### 🚀 Habilidades
